@@ -1,18 +1,4 @@
-Country,
-Confirmed,
-Deaths,
-Recovered,
-Active,
-New cases,
-New deaths,
-New recovered,
-Deaths_per_100_Cases,
-Recovered_per_100_Cases,
-Deaths_per_100_Recovered,
-Confirmed_last_week,
-1_week_change,
-1_week_percent_increase,
-WHO_Region
+Country,Confirmed,Deaths,Recovered,Active,New_cases,New_deaths,New_recovered,Deaths_per_100_Cases,Recovered_per_100_Cases,Deaths_per_100_Recovered,Confirmed_last_week,1_week_change,1_week_percent_increase,WHO_Region
 
 
 Afghanistan,31517,746,14131,16640,279,13,197,2.37,44.84,5.28,29481,2036,6.91,Eastern Mediterranean
